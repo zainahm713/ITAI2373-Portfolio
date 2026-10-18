@@ -1,0 +1,4 @@
+model,cv_f1_macro,test_accuracy,test_f1_macro
+LinearSVC,0.9738,0.9639,0.9608
+LogisticRegression,0.9661,0.9611,0.9588
+MultinomialNB,0.9657,0.9583,0.9554
