@@ -1,0 +1,3 @@
+Parameters: {'svm__C': 2.0, 'tfidf__ngram_range': (1, 2)}
+Cross-validation macro F1: 0.9731
+Test macro F1: 0.9608

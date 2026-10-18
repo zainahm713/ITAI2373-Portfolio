@@ -1,0 +1,101 @@
+entity_a,entity_b,article_co_mentions
+london,uk,10
+britain,uk,8
+blair,tony blair,7
+new york,us,6
+london,us,6
+charles kennedy,michael howard,6
+britain,london,5
+uk,us,5
+bbc,uk,5
+britain,tony blair,5
+charles kennedy,kennedy,5
+blair,michael howard,5
+michael howard,tony blair,5
+bbc,us,4
+blair,uk,4
+britain,michael howard,4
+howard,michael howard,4
+charles kennedy,tony blair,4
+blair,britain,4
+charles kennedy,lib dem,4
+kennedy,lib dem,4
+blair,charles kennedy,4
+england,scotland,4
+andy robinson,england,4
+japan,south korea,3
+india,uk,3
+russia,us,3
+china,us,3
+london,paris,3
+england,london,3
+america,us,3
+britain,us,3
+bbc,britain,3
+new york,uk,3
+jamie foxx,ray charles,3
+tony blair,uk,3
+bbc,bbc radio 4 s,3
+blair,gordon brown,3
+britain,howard,3
+david davis,michael howard,3
+blair,howard,3
+michael howard,uk,3
+bbc news,britain,3
+kennedy,michael howard,3
+lib dem,michael howard,3
+andy robinson,ireland,3
+andy robinson,martin corry,3
+bbc sport,england,3
+england,ireland,3
+england,martin corry,3
+ireland,martin corry,3
+england,italy,3
+france,italy,3
+italy,scotland,3
+google,microsoft,3
+japan,us,2
+japan,tokyo,2
+japan s,tokyo,2
+india,indonesia,2
+india,karachi,2
+india,pakistan,2
+karachi,pakistan,2
+bush,us,2
+georgia,ukraine,2
+brazil,london,2
+china,russia,2
+india,london,2
+india,us,2
+london,south africa,2
+south africa,us,2
+indonesia,us,2
+janet jackson s,us,2
+britain,matt lucas,2
+london,new zealand,2
+alicia keys,franz,2
+alicia keys,kanye west,2
+alicia keys,r&b,2
+franz,kanye west,2
+franz,r&b,2
+franz,us,2
+georgia,us,2
+jamie foxx,los angeles,2
+kanye west,r&b,2
+los angeles,ray charles,2
+los angeles,us,2
+edinburgh,uk,2
+los angeles,paul giamatti,2
+bbc,london,2
+imelda staunton,mike leigh,2
+france,uk,2
+japan,uk,2
+south korea,uk,2
+britain,the bbc news,2
+doesn,uk,2
+franz,robbie williams,2
+edinburgh,rome,2
+afghanistan,us,2
+bbc,charles clarke,2
+charles clarke,uk,2
+pakistan,uk,2
